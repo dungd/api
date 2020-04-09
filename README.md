@@ -1,4 +1,4 @@
-# api
+# api là người bồi bàn. tiếp nhận yêu cầu của khách hàng và trả lại DL cho ng dùng dạng JSON
 
 ## link thực hành API
 
